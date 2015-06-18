@@ -1,0 +1,8 @@
+{application, calypso_starter, [
+  {description, "Starter for Calypso applications"},
+  {vsn, "1"},
+  {registered, []},
+  {modules, []},
+  {applications, [ kernel, stdlib ]},
+  {env, []}
+]}.
